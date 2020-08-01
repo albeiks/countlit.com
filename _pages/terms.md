@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Terms
-include_in_header: true
+title: Terms & Conditions
+include_in_header: false
 ---
 
 **Last updated**  

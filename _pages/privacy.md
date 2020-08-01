@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Privacy
-include_in_header: true
+title: Privacy Policy
+include_in_header: false
 ---
 
 **Last updated**  
 August 1 2020
 
-# Privacy Policys
+# Privacy Policy
 
 Omar Albeik built the Countlit app as a Freemium app. This SERVICE is provided by Omar Albeik at no cost and is intended for use as is.
 
