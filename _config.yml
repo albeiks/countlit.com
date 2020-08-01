@@ -19,12 +19,12 @@ features                                  :
     description                           : Use your camera, photos library, or a wide collection of curated photos.
     fontawesome_icon_name                 : plus
     
-  - title                                 : Custimze Your Countlits
+  - title                                 : Customize Your Countlits
     description                           : Choose from a wide collection of curated fonts and colors.
     fontawesome_icon_name                 : star
 
   - title                                 : Share Your Best Moments
-    description                           : Share your countlits with the word!
+    description                           : Share your countlits with the world!
     fontawesome_icon_name                 : share
 
   - title                                 : See Popular Countlits
