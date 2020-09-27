@@ -20,7 +20,7 @@ features                                  :
     fontawesome_icon_name                 : plus
     
   - title                                 : Customize Your Countlits
-    description                           : Choose from a wide collection of curated fonts and colors.
+    description                            : Choose from a wide collection of curated fonts and colors.
     fontawesome_icon_name                 : star
 
   - title                                 : Share Your Best Moments
@@ -32,11 +32,11 @@ features                                  :
     fontawesome_icon_name                 : fire
 
   - title                                 : iOS 14 Widgets
-    description                           : See your events updating in realtime anywhere on your home screen with the new widgets
-    fontawesome_icon_name                 : sync
+    description                           : See your events updating in realtime on your home screen with the new widgets
+    fontawesome_icon_name                 : sync-alt
 
   - title                                 : iPad Support
-    description                           : Enjoy your countlits on the gorgeous iPad screen with a special experience for the large displays!
+    description                           : Enjoy your countlits on iPad with a special experience for large displays!
     fontawesome_icon_name                 : tablet-alt
 
 topbar_color                              : "#000000"
